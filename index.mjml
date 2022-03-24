@@ -1,0 +1,64 @@
+<mjml>
+	<mj-head>
+		<mj-attributes>
+			<mj-all font-family="Inter" align="center" />
+			<mj-class name="header" font-size="18" text-transform="uppercase" />
+		</mj-attributes>
+	</mj-head>
+	<mj-body>
+		<mj-container>
+			<mj-section background-color="#f39200">
+				<mj-column>
+					<mj-text mj-class="header" color="#fff"
+						>Journal de Déstockage et d'Enchères</mj-text
+					>
+				</mj-column>
+			</mj-section>
+
+			<mj-section>
+				<mj-column>
+					<mj-text color="#f39200">
+						Connexion réussie à partir d'une nouvelle adresse.
+					</mj-text>
+				</mj-column>
+			</mj-section>
+
+			<mj-section>
+				<mj-column>
+					<mj-text>
+						Nous avons remarqué que vous avez accéder à votre compte à partir
+						d'une nouvelle adresse IP non reconnue. Email: toto@toto.com
+					</mj-text>
+				</mj-column>
+			</mj-section>
+
+			<mj-section>
+				<mj-column>
+					<mj-text> Heure: 2022-02-06 17:36:33(UTC) </mj-text>
+					<mj-text> Adresse IP: 41.121.181.103 </mj-text>
+				</mj-column>
+			</mj-section>
+
+			<mj-section>
+				<mj-column>
+					<mj-button
+						background-color="#f39200"
+						color="#fff"
+						href="https://www.jdemali.com/"
+					>
+						Cliquez ici
+					</mj-button>
+					<mj-text
+						>Si vous ne reconnaissez pas cette activité, veuillez désactiver
+						votre compte et nous contacter immédiatement sur </mj-text
+					><mj-button
+						color="#f39200"
+						background-color="transparent"
+						href="https://jdemali.com/support"
+						>https://jdemali.com/support</mj-button
+					>
+				</mj-column>
+			</mj-section>
+		</mj-container>
+	</mj-body>
+</mjml>

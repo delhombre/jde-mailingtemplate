@@ -1,0 +1,14 @@
+{
+  "name": "jde-mailtemplate",
+  "version": "1.0.0",
+  "main": "assets/app.js",
+  "author": "Bruno Dogbase",
+  "license": "UNLICENSED",
+  "private": false,
+  "devDependencies": {
+    "@symfony/webpack-encore": "^1.8.2"
+  },
+  "dependencies": {
+    "mjml": "^4.12.0"
+  }
+}
